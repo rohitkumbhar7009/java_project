@@ -1,0 +1,84 @@
+1) What do you mean by Data Structures?
+--> data structure is a data organization,data management and data storage format that enables efficient access and modification.
+more precisely data structure is a collection of data values.
+Data Structure ia an approch of organizing data,storing data and managing data so that we can access and modify it easily.
+
+
+2) Define The Goals Of Data Structure?
+--> Data structure may be selected or designed to store data for the purpose of working on it with various algorithm.
+Each data Structure contain information about the data values.
+
+
+3) What is the Need of DS
+--> 
+A] Used in every program or software system to arrange the data.
+B]data Structure are essential of many efficient algorithm.
+C]Each data structure allows data to be stored in specific manner in the memory.
+D] Data structure helps in efficient data search and etrieval.
+E]For specific problem specific data structure is used.
+F]Data structure allowes to manage large amount of data such as large database and indexing service such as hash table.
+G]Data Structure organized storage and retrivel of data and information which is stored in both main and Secondary memory.
+
+
+
+4) List out the areas in which data structures are applied extensively(real time examples)?
+-->
+a]In Numerical analysis 
+b]In Operating System
+c]In Artificial Inteligence
+d]In Compiler design
+e]IN statical analysis package
+f]In DBMS(database management System)
+g]In Simulation
+h]In Graphic Design
+
+
+
+5) List different types of data structures.
+-->Arrrays,Stack,queue,Linked List,Tree,Graphs,Hash table
+
+6) What Does Abstract Data Type Mean?
+-->It is a type for object whose behaviour is defined by set of value and set of opeation.
+ADT only mention that operation are to be performed but not how these operation will be implemented .
+it does not specify how data wil be organized in memeory and algorithm.will be used for impleting the operation .it is called abstract.
+It will give implementation independent view.
+the of providing on essential and hiding the details is known as abstraction.
+There are three types of ADT List ADT,Stack ADT,Queue ADT.
+
+
+
+7)Difference between Primitive and Non Primitive DS
+--> 1]Primitive Can store only one Type Of data.
+    2]Eg.Integer,float,character.
+    3]Primitives DS Will Conatain Some value that is con not be Null.
+    4]The Depends on size of DS.
+    5]It starts with Lowercase Character.
+    6]It Will used to call the Methods.
+======================================================================
+    1]Non Primitive Can Store more then one Type of data.
+    2]Eg.Array,Linked List,Stack 
+    3]Non primitive DS contain consist of Null Value.
+    4]In non Primitive DS Size is not Fix.
+    5]It Starts With Uppercase Character .
+    6]It will Cannot be used  to call Methods.
+    
+
+
+
+
+8)Difference between Linear and Non Linear DS
+--> Linear
+     1]In Linear DS data element are arranged in linear order where  each and every elements is attached to its privious and next adjacent.
+     2]Single Level is involved 
+     3]Implementation is easy compare to non linear.
+     4]DATA element can be traversed in single run only.
+     5]Meomry not utilized in  an efficient way.
+     6]eg.array,Stack,Queue,Linked list.
+======================================================================
+Non Linear
+    1]In Non Linear DS elements are Attached  in hirarchically Manner.
+    2] Double or multiple level is involved.
+    3]Implentation is compile in compare To linear .
+    4]Data Element cant be traversed in single run only.
+    5]Memory Utilized in efficient way.
+    6]eg. Tree,Graphs
